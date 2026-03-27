@@ -43,7 +43,7 @@ GN-Cream/
 │── style.css
 │── script.js
 
-
+---
 ---
 
 ## 🚀 How to Run the Project
@@ -87,7 +87,8 @@ GN-Cream/
 
 
 ### Home Page
-![Home Page](images/home.png)
+| Home Page |
+![Home Page](images/cream-home.PNG)
 
 
 
