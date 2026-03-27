@@ -19,14 +19,12 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 
-    // Simple Animation on Scroll (Intersection Observer)
+    // Animation on Scroll (FIXED)
     const observerOptions = {
-        root: null,
-        rootMargin: '0px',
         threshold: 0.1
     };
 
-    const observer = new IntersectionObserver((entries, observer) => {
+    const observer = new IntersectionObserver((entries) => {
         entries.forEach(entry => {
             if (entry.isIntersecting) {
                 entry.target.classList.add('fade-in-up');
@@ -36,7 +34,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }, observerOptions);
 
     document.querySelectorAll('.animate-on-scroll').forEach(el => {
-        el.style.opacity = '0'; // Initially hide
+       
         observer.observe(el);
     });
 });
