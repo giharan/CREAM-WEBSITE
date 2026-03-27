@@ -42,7 +42,7 @@ GN-Cream/
 │── index.html
 │── style.css
 │── script.js
-```
+
 
 ---
 
@@ -53,7 +53,7 @@ GN-Cream/
 1. Download or clone the repository:
 
    ```
-   git clone https://github.com/giharan/gn-cream.git
+   git clone https://github.com/giharan/C.git
    ```
 2. Open the project folder
 3. Double-click `index.html` or open it in a browser
@@ -86,6 +86,8 @@ GN-Cream/
 ## 📸 Screenshots
 
 
+### Home Page
+![Home Page](images/home.png)
 
 
 
