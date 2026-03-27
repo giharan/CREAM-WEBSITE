@@ -14,36 +14,35 @@ The design emphasizes **clean layout, smooth navigation, and aesthetic presentat
 
 ## ✨ Features
 
-* 🎨 Modern and clean UI design
-* 📱 Fully responsive layout (mobile, tablet, desktop)
-* 🧭 Sticky navigation bar with mobile menu
-* 🌅 Hero section with background image and call-to-action
-* 💡 Product benefits and feature highlights
-* 🧴 Product showcase section
-* 🎬 Scroll-based animations using Intersection Observer
-* ⚡ Smooth scrolling for navigation links
-* 🖱️ Hover effects and transitions
+- 🎨 Modern and clean UI design  
+- 📱 Fully responsive layout (mobile, tablet, desktop)  
+- 🧭 Sticky navigation bar with mobile menu  
+- 🌅 Hero section with background image and call-to-action  
+- 💡 Product benefits and feature highlights  
+- 🧴 Product showcase section  
+- 🎬 Scroll-based animations using Intersection Observer  
+- ⚡ Smooth scrolling for navigation links  
+- 🖱️ Hover effects and transitions  
 
 ---
 
 ## 🛠️ Technologies Used
 
-* **HTML5** – Structure of the website
-* **CSS3** – Custom styling and animations
-* **Tailwind CSS** – Utility-first styling framework
-* **JavaScript (Vanilla)** – Interactivity and scroll animations
+- HTML5 – Structure of the website  
+- CSS3 – Custom styling and animations  
+- Tailwind CSS – Utility-first styling framework  
+- JavaScript (Vanilla) – Interactivity and scroll animations  
 
 ---
 
 ## 📂 Project Structure
-
-```
 GN-Cream/
 │── index.html
 │── style.css
 │── script.js
+│── images/
 
----
+
 ---
 
 ## 🚀 How to Run the Project
@@ -52,51 +51,49 @@ GN-Cream/
 
 1. Download or clone the repository:
 
-   ```
-   git clone https://github.com/giharan/C.git
-   ```
-2. Open the project folder
-3. Double-click `index.html` or open it in a browser
+git clone https://github.com/giharan/CREAM-WEBSITE.git
+
+
+2. Open the project folder  
+3. Double-click `index.html` or open it in a browser  
 
 ---
 
 ### 🔹 Option 2: View Online (GitHub Pages)
 
-1. Go to your repository on GitHub
-2. Open **Settings → Pages**
+1. Go to your repository on GitHub  
+2. Open **Settings → Pages**  
 3. Select:
-
-   * Branch: `main`
-   * Folder: `/ (root)`
-4. Save and wait a few seconds
-5. Open the generated link
+   - Branch: `main`  
+   - Folder: `/ (root)`  
+4. Save and wait a few seconds  
+5. Open the generated link  
 
 ---
 
 ## 🎯 Key Learning Outcomes
 
-* Building responsive layouts using Tailwind CSS
-* Structuring multi-section web pages
-* Implementing scroll-based animations with JavaScript
-* Enhancing UI/UX with transitions and effects
-* Debugging front-end issues and improving performance
+- Building responsive layouts using Tailwind CSS  
+- Structuring multi-section web pages  
+- Implementing scroll-based animations with JavaScript  
+- Enhancing UI/UX with transitions and effects  
+- Debugging front-end issues and improving performance  
 
 ---
 
 ## 📸 Screenshots
 
-
 ### Home Page
-| Home Page |
+
 ![Home Page](images/cream-home.PNG)
 
-
+---
 
 ## 📬 Contact
 
 For feedback or collaboration:
 
-* Email: [info@gncream.com](mailto:info@gncream.com)
+- Email: info@gncream.com  
 
 ---
 
